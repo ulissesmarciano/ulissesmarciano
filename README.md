@@ -1,4 +1,4 @@
-### Olá, meu nome é Ulisses e esse é meu perfil do GitHub!
+### Olá, meu nome é Ulisses e esse é meu perfil do GitHub.
 
 
 <div align="center">
