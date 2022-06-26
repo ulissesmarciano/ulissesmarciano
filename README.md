@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é Ulisses e esse é meu perfil do GitHub!
+
 
 <div align="center">
   <a href="https://github.com/ulissesmarciano">
@@ -12,6 +13,12 @@
   <img align="center" alt="Ulisses-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ulisses-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ulisses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  <div> 
+  <a href = "mailto:ulissesmkt2104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ulissesmarciano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
 <!--
 - 🔭 I’m currently working on ...
